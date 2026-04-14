@@ -10,7 +10,7 @@ import string
 from channel import WithdrawalChannel  # Импортируем модуль канала
 
 # Настройки бота
-TOKEN = "8337396229:AAES7rHlibutnscXOHk7t6XB2fK2CUni5eE"
+TOKEN = "8337396229:AAFe_IhYtzv9Ts2OiEVhIkHJQB0yY4NAKgg"
 bot = telebot.TeleBot(TOKEN)
 
 # Инициализация канала для уведомлений
